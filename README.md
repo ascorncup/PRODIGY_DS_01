@@ -1,4 +1,4 @@
-![image](https://github.com/ascorncup/PRODIGY_DS_01/assets/60703101/4afc8485-516e-433f-a89b-a716abf7380f)# PRODIGY_DS_01
+# PRODIGY_DS_01
 Task 1 at Prodigy InfoTech Data Science Internship
 
 ## Problem Definiton:
